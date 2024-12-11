@@ -41,3 +41,11 @@
 
 2. Модели с SGD-обучением и КатБуст
 ![alt text](https://github.com/NickolayYakovchukfm/python_project/blob/main/Screenshot%202024-12-11%20at%2020.55.37.png)
+
+
+@article{feng2024unitraj,
+  title={House Prices Modeling},
+  author={Yakovchuk Nickolay, Bondarev Pavel},
+  journal={Higher School of Economics},
+  year={2024}
+}
