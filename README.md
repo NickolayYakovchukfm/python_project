@@ -43,9 +43,9 @@
 ![alt text](https://github.com/NickolayYakovchukfm/python_project/blob/main/Screenshot%202024-12-11%20at%2020.55.37.png)
 
 
-@article{feng2024unitraj,
-  title={House Prices Modeling},
-  author={Yakovchuk Nickolay, Bondarev Pavel},
-  journal={Higher School of Economics},
-  year={2024}
-}
+## Авторы проекта: Яковчук Николай * , Бондарев Павел *
+2024
+
+* -- Был внесен равносильный вклад в проект, точнее:
+  - Павел: Выбор метрик, тестирование кода (наличие утечек, перебор экспериментов, etc.), таблицы с метриками
+  - Николай: Все остальное
