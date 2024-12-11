@@ -1,4 +1,6 @@
 # House Price Prediction
+![alt text](https://github.com/NickolayYakovchukfm/python_project/blob/main/Screenshot%202024-12-11%20at%2019.10.59.png)
+
 
 ## Были проведены базовые манипуляции с данными / стек обработок:
 
