@@ -37,10 +37,10 @@
 # Итоговые результаты:
 
 1. Модели с МНК-обучением
-![alt text](https://github.com/NickolayYakovchukfm/python_project/blob/main/Screenshot%202024-12-11%20at%2020.55.21.png)
+![alt text](https://github.com/NickolayYakovchukfm/python_project/blob/main/Screenshot%202024-12-13%20at%2017.28.23.png)
 
 2. Модели с SGD-обучением и КатБуст
-![alt text](https://github.com/NickolayYakovchukfm/python_project/blob/main/Screenshot%202024-12-11%20at%2020.55.37.png)
+![alt text](https://github.com/NickolayYakovchukfm/python_project/blob/main/Screenshot%202024-12-13%20at%2017.28.33.png)
 
 
 ## Авторы проекта: Яковчук Николай*, Бондарев Павел*
